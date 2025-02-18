@@ -31,7 +31,7 @@ It doesn't modify or access any other data except the .ics file provided by the 
 through the file selection button.
 
 
-Question mark PNG used in GUI by Freepik
+Question mark PNG used in GUI by Freepik;
 App icon by ByteDance IconPark
 
 Runs on .NET 8. Created in Visual Studio with Windows Forms and C#.
