@@ -26,10 +26,9 @@ This app was published to ClickOnce in Visual Studio to make it as lightweight a
 It doesn't modify or access any other data except the .ics file provided by the user 
 through the file selection button.
 
--------------------------------------------------
+
 Question mark PNG used in GUI by Freepik
 App icon by ByteDance IconPark
--------------------------------------------------
 
 Runs on .NET 8. Created in Visual Studio with Windows Forms and C#.
 Free to distribute for free, unaltered, accompanied by this ReadMe file.
