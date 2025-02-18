@@ -1,6 +1,8 @@
 ##################################################################################
+
 This app takes an ICS file and splits it into two new files, 
 formatting each file as necessary for importing in the likes of Google Calendar. 
+
 ##################################################################################
 
 "Another .ics splitter?", you say.
