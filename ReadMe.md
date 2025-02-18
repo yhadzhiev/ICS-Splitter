@@ -20,11 +20,13 @@ The app runs on it.
 Using the app:
 
 In case you get the "UnathorizedAccessException" error when selecting a file, 
-place your ICS file where no Admin permission is required to access and edit it in the directory.
-The app creates two smaller .ics files and always tries to place them in C:\. 
+place your .ics file where no Admin permission is required to access and edit it in the directory.
+The app creates two smaller .ics files and always tries to place them in C:\\. 
 So make sure your Windows user has writing permissions there.
 You can split the resulting files as many times as necessary until you end up with many smaller
-files that are below the .ics file size limit for importing.
+files that are below the .ics file size limit for importing. In Google Calendar, the maximum size
+for imported calendar files is 1 MB, per this Help Center article: https://support.google.com/calendar/answer/45654
+
 
 This app was published to ClickOnce in Visual Studio to make it as lightweight as possible.
 It doesn't modify or access any other data except the .ics file provided by the user 
