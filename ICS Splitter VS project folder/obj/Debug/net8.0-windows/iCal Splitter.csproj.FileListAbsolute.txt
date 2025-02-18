@@ -1,0 +1,17 @@
+C:\Users\Yavor\Desktop\iCal Splitter\bin\Debug\net8.0-windows\ICS Splitter 25.exe
+C:\Users\Yavor\Desktop\iCal Splitter\bin\Debug\net8.0-windows\ICS Splitter 25.deps.json
+C:\Users\Yavor\Desktop\iCal Splitter\bin\Debug\net8.0-windows\ICS Splitter 25.runtimeconfig.json
+C:\Users\Yavor\Desktop\iCal Splitter\bin\Debug\net8.0-windows\ICS Splitter 25.dll
+C:\Users\Yavor\Desktop\iCal Splitter\bin\Debug\net8.0-windows\ICS Splitter 25.pdb
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\iCal_Splitter.Form1.resources
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\iCal_Splitter.Properties.Resources.resources
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\iCal Splitter.csproj.GenerateResource.cache
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\iCal Splitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\iCal Splitter.AssemblyInfoInputs.cache
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\iCal Splitter.AssemblyInfo.cs
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\iCal Splitter.csproj.CoreCompileInputs.cache
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\ICS Splitter 25.dll
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\refint\ICS Splitter 25.dll
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\ICS Splitter 25.pdb
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\iCal Splitter.genruntimeconfig.cache
+C:\Users\Yavor\Desktop\iCal Splitter\obj\Debug\net8.0-windows\ref\ICS Splitter 25.dll
