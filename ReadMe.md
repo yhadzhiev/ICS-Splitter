@@ -28,6 +28,7 @@ files that are below the .ics file size limit for importing. In Google Calendar,
 for imported calendar files is 1 MB, per this Help Center article: https://support.google.com/calendar/answer/45654
 
 
+
 This app was published to ClickOnce in Visual Studio to make it as lightweight as possible.
 It doesn't modify or access any other data except the .ics file provided by the user 
 through the file selection button.
