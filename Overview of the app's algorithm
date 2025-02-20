@@ -3,14 +3,14 @@ This applet relies on 4 methods called one after another once a file is successf
 This is a general description of the applet's algorithm:
 
 1. The first method stores initial .ics contents in a queue, each line of text from the .ics being an element in that queue.
-2. The second method gets the header of the .ics from the initial queue and store it in a new, separate header queue. As a 
-desirable side effect, this should get the main (body) queue rid of the headers.
-3. The third method splits the contents of the body* queue into two separate new queues, making sure to add the same header 
-to each new queue first by dequeing the header queue and placing a copy of each of it's elements into the two new queues.
-4. The foruth method creates two new .ics files with the contents of each queue, by dequeing each que into a separate new .ics file. 
+2. The second method gets the header of the .ics from the initial queue and stores it in a new, separate header queue. As a 
+desirable side effect, this should get the main (body) queue stripped of the headers.
+3. The third method splits the contents of the body* queue into two separate new queues in a way that doesn't break the structure,
+making sure to add the same header to each new queue first by dequeing the header queue and placing a copy of each of it's elements into the two new queues.
+4. The foruth method creates two new .ics files with the contents of each queue, by dequeing each one into a separate new .ics file. 
 In the process, this method adds a special ending line that is a must for .ics files: END:VCALENDAR
 
-* body meaning the events that are in the .ics file, excluding the header and the closing footer.
+* body meaning the events that are in the .ics file, excluding the header and the closing line.
 
 The First In, First Out property of the Queue data structure is particularly helpful here because the order in which the lines of text in the .ics file 
-are structured is directly related to how it works and whether importing is successful.
+are structured is directly related to whether importing the file to apps such as Google Calendar is successful.
