@@ -38,5 +38,4 @@ Question mark PNG used in GUI by Freepik;
 App icon by ByteDance IconPark
 
 Runs on .NET 8. Created in Visual Studio with Windows Forms and C#.
-Free to distribute for free, unaltered, accompanied by this ReadMe file.
-2025
+Free modify, improve and to distribute free of charge and in good faith.
