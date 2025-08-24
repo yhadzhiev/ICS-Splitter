@@ -23,9 +23,10 @@ In case you get the "UnathorizedAccessException" error when selecting a file,
 place your .ics file where no Admin permission is required to access and edit it in the directory.
 The app creates two smaller .ics files and always tries to place them in C:\\. 
 So make sure your Windows user has writing permissions there.
-You can split the resulting files as many times as necessary until you end up with many smaller
-files that are below the .ics file size limit for importing. In Google Calendar, the maximum size
-for imported calendar files is 1 MB, per this Help Center article: https://support.google.com/calendar/answer/45654
+
+You can split the resulting files as many times as necessary until you end up with many smaller files that are below the .ics file size limit for importing. 
+
+In Google Calendar, the maximum size for imported calendar files is 1 MB, per this Help Center article: https://support.google.com/calendar/answer/45654
 
 
 
@@ -40,3 +41,4 @@ App icon by ByteDance IconPark
 Runs on .NET 8. Created in Visual Studio with Windows Forms and C#.
 
 Free to modify, improve and to distribute free of charge and in good faith.
+
