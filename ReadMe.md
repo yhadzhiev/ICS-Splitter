@@ -24,9 +24,9 @@ place your .ics file where no Admin permission is required to access and edit it
 The app creates two smaller .ics files and always tries to place them in C:\\. 
 So make sure your Windows user has writing permissions there.
 
-You can split the resulting files as many times as necessary until you end up with many smaller files that are below the .ics file size limit for importing. 
+You can split the resulting files as many times as necessary until you end up with many smaller files that are below the .ics file size limit for importing.
 
-In Google Calendar, the maximum size for imported calendar files is 1 MB, per this Help Center article: https://support.google.com/calendar/answer/45654
+In Google Calendar, for example, splitting your large .ics file and then importing the multiple resulting files does not create issues and all the events are imported into the same calendar. The maximum size for imported calendar files in Google Calendar is 1 MB, per this Help Center article: https://support.google.com/calendar/answer/45654
 
 
 
@@ -41,4 +41,5 @@ App icon by ByteDance IconPark
 Runs on .NET 8. Created in Visual Studio with Windows Forms and C#.
 
 Free to modify, improve and to distribute free of charge and in good faith.
+
 
