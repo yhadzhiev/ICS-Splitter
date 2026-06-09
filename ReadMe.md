@@ -8,7 +8,9 @@ formatting each file as necessary for importing in the likes of Google Calendar.
 "Another .ics splitter?", you say.
 Answer: Why not? :) I had to split a large .ics manually in order to import it into
 Google Calendar once and it was a headache. At the time, I couldn't find a user-friendly
-GUI app that could do this for me. So I hope this helps at least one person out there. 
+GUI app that could do this for me. So I hope this helps at least one person out there.
+
+*Mind you this is a beginner's project from early 2025 and does not necessarily reflect best practices.*
 
 Setup:
 
