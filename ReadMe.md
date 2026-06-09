@@ -21,7 +21,7 @@ The app runs on it.
 
 Using the app:
 
-In case you get the "UnathorizedAccessException" error when selecting a file, 
+In case you get the "UnauthorizedAccessException" error when selecting a file, 
 place your .ics file where no Admin permission is required to access and edit it in the directory.
 The app creates two smaller .ics files and always tries to place them in C:\\. 
 So make sure your Windows user has writing permissions there.
